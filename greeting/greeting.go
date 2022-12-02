@@ -13,3 +13,7 @@ func Hi() {
 func Fuck() {
 	fmt.Println("phuck dat")
 }
+
+func YouSuck() {
+	fmt.Println("you suck balls")
+}
