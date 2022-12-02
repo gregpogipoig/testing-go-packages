@@ -1,3 +1,3 @@
-module github.com/gregpogipoig/testing-go-packages/greeting
+module github.com/gregpogipoig/testing-go-packages
 
 go 1.19
