@@ -9,3 +9,7 @@ func Hello() {
 func Hi() {
 	fmt.Println("Hi!")
 }
+
+func Fuck() {
+	fmt.Println("phuck dat")
+}
